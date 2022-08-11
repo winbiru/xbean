@@ -1,0 +1,408 @@
+
+<!DOCTYPE html>
+<html lang="en-US"><head>
+<meta charset="UTF-8" />
+<link rel="shortcut icon" href="/wp-content/uploads/2012/06/Genix_Logo_for_addressbar.ico" />
+<title>Casegenix</title>
+<link rel="pingback" href="https://casegenix.com/xmlrpc.php" />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Casegenix &raquo; Case Genix Comments Feed" href="https://casegenix.com/?feed=rss2&#038;page_id=69" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/casegenix.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='dynamix-style-css' href='https://casegenix.com/wp-content/themes/DynamiX-Wordpress/DynamiX/style.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://casegenix.com/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://casegenix.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='https://casegenix.com/wp-content/themes/DynamiX-Wordpress/DynamiX/js/dynamix.min.js'></script>
+<script type='text/javascript' src='https://casegenix.com/wp-content/uploads/2012/07/jwplayer.js'></script>
+<link rel='https://api.w.org/' href='https://casegenix.com/index.php?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://casegenix.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://casegenix.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.8.12" />
+<link rel="canonical" href="https://casegenix.com/" />
+<link rel='shortlink' href='https://casegenix.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://casegenix.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fcasegenix.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://casegenix.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fcasegenix.com%2F&#038;format=xml" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//casegenix.com/?wordfence_logHuman=1&hid=DA6D90BCA4FA54EAECE62A02097CA0BC');
+</script> <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<style type="text/css">
+
+#toppanel, #toppanel a,.lowerfooter, .tweets h3 a, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {color:#5f5f5f;}	
+.sidebar-content li a, #footer a, #panel a  {color: #5f5f5f;}
+.sidebar-content li a:hover, #toppanel a:hover{color: #999;}
+
+a, div.item-list-tabs#subnav a.show-hide-new, div.item-list-tabs#subnav a.new-reply-link {
+	color: #00aeff;
+  	text-decoration: none;
+	outline: none; /* firefox fix  */
+}
+
+a:hover,#sub-tabs ul li.current_page_item,div.item-list-tabs#subnav a.show-hide-new:hover,div.item-list-tabs#subnav a.new-reply-link:hover, span.bbp-breadcrumb-current {color: #4ac6ff;}
+
+#sub-tabs ul li a {	color:#b4b4b4;}
+acronym, abbr {	border-bottom: 1px dashed #00aeff;}
+
+
+.slidernav-left a {background:#00aeff url(https://casegenix.com/wp-content/themes/DynamiX-Wordpress/DynamiX/images/gallery-nav.png) top left no-repeat;}
+.slidernav-right a {background:#00aeff url(https://casegenix.com/wp-content/themes/DynamiX-Wordpress/DynamiX/images/gallery-nav.png) top right no-repeat;}
+.slidernav-left a:hover {background:#4ac6ff url(https://casegenix.com/wp-content/themes/DynamiX-Wordpress/DynamiX/images/gallery-nav.png) top left no-repeat;}
+.slidernav-right a:hover {background:#4ac6ff url(https://casegenix.com/wp-content/themes/DynamiX-Wordpress/DynamiX/images/gallery-nav.png) top right no-repeat;}
+
+
+#content ul li.socialinit, #content ul li.socialhide:hover, #content .socialicons ul li, #content .postmetadata .comments.yes, .twitterfollow a, #wp-calendar td a,.tab a.open,.tab a.close,#content .textresize ul li,ul.paging li.pagebutton,.accordion .ui-icon,.revealbox .ui-icon, .stage-control #stage-prev,.stage-control #stage-next,.stage-control #stage-pause,.stage-control #stage-resume, .stage-control .poststage-prev,.stage-control .poststage-next,.stage-control .poststage-pause,.stage-control .poststage-resume,span.highlight.one {
+ background-color:#00aeff;
+}
+
+#content ul li.socialinit:hover,#content ul li.socialhide, #content .socialicons ul li:hover, #content .postmetadata .comments.yes:hover, .twitterfollow a:hover,#wp-calendar td a:hover,.tab a:hover.open,.tab a:hover.close,#content .textresize ul li:hover,ul.paging li.pagebutton.active, ul.paging a li.pagebutton, .accordion .ui-state-active .ui-icon, .stage-control #stage-prev:hover,.stage-control #stage-next:hover,.stage-control #stage-pause:hover,.stage-control #stage-resume:hover, .stage-control .poststage-prev:hover,.stage-control .poststage-next:hover,.stage-control .poststage-pause:hover,.stage-control .poststage-resume:hover {
+ background-color:#4ac6ff;
+}
+
+.panelcontent h2 a, .panelcontent h2 { color:#5f5f5f;}
+
+#header-logo {margin-top:40px;}
+
+
+body { 
+ font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+ font-size:0.75em; 
+}	
+
+
+#wrapper #nv-tabs ul li.extended-menu ul li ul li:hover {background:url(https://casegenix.com/wp-content/themes/DynamiX-Wordpress/DynamiX/stylesheets/images/gradient-f-light.png) repeat-x top;}	
+
+</style>
+<style type="text/css">
+/** Page Structure **/
+#page.pages,#page.gallery,#wrapper,#wrapper.gallery {background:none;}
+#wrapper .header-wrap {
+ background: #;
+;
+}
+
+
+#wrapper.gallery .header-wrap {
+ background: #;
+;
+}
+
+#wrapper.gallery .header-wrap-img {
+ background:none;
+}	
+
+/** / Page Structure **/
+
+
+/** Menu Navigation **/
+#nv-tabs a {color:#00aeff;}
+#nv-tabs a:hover {color:#4ac6ff;}
+
+#nv-tabs ul ul {
+ background:#;
+ border:1px solid #;
+}
+
+#nv-tabs ul li.current_page_item, #nv-tabs ul li:hover {background:url(https://casegenix.com/wp-content/themes/DynamiX-Wordpress/DynamiX/stylesheets/images/gradient-f-light.png) repeat-x top;}
+#nv-tabs ul li ul li  {background:none;}
+#nv-tabs ul li a:hover, #nv-tabs ul li.current_page_item ul li a:hover, #footer a:hover, #nv-tabs ul li ul li.current_page_item a {	color:#4ac6ff;}
+#nv-tabs ul li.current_page_item ul li a {color:00aeff;}
+#nv-tabs li.menubreak,#nv-tabs li.menubreak:hover {background:url(https://casegenix.com/wp-content/themes/DynamiX-Wordpress/DynamiX/stylesheets/images/break-c-alpha.png) left center repeat-y;}
+#nv-tabs .menudesc {color:#666666;}
+/** / Menu Navigation **/
+
+/** Footer **/
+#footer a {color:#00aeff;}
+#footer a:hover {color:#4ac6ff;}
+#footer {color:#FFFFFF;}
+
+#footer-wrap {
+ background: #;
+;
+}
+
+#footer-wrap-inner {
+	background:none;
+}	
+
+
+#footer pre,#footer input[type=text],#footer input[type=password],#footer input[type=file],#footer textarea {
+	background:# url(images/shadow-h.png) top repeat-x;
+	border: 1px solid;
+	color:#FFFFFF;
+	border-color:# # # #;
+}
+
+#footer .widgetlinks, #footer .menu, #footer  .widget ul {background:url(https://casegenix.com/wp-content/themes/DynamiX-Wordpress/DynamiX/stylesheets/images/break-a-alpha.png) bottom left repeat-x;}
+#footer .widgetlinks li, #footer .menu li, #footer .widget li{background:url(https://casegenix.com/wp-content/themes/DynamiX-Wordpress/DynamiX/stylesheets/images/break-a-alpha.png) top left repeat-x;}
+#footer .widgetlinks li a, #footer .menu li a, #footer .widget li a {background:url(https://casegenix.com/wp-content/themes/DynamiX-Wordpress/DynamiX/stylesheets/images/li-arrow-white.png) center left no-repeat;}
+#footer .hozbreak {	background:url(https://casegenix.com/wp-content/themes/DynamiX-Wordpress/DynamiX/stylesheets/images/break-a-alpha.png) center repeat-x;}
+#footer #wp-calendar, #footer #wp-calendar tfoot a { color:#555; }
+#footer #wp-calendar caption { color:#fff; }
+#footer .blockquote_line, #footer .blockquote_quotes, #footer blockquote {color:#fff;}
+#footer .blockquote_quotes .quote.left {background:url(https://casegenix.com/wp-content/themes/DynamiX-Wordpress/DynamiX/stylesheets/images/quote-open-dark.png) no-repeat top left;}
+#footer .blockquote_quotes .quote.right {background:url(https://casegenix.com/wp-content/themes/DynamiX-Wordpress/DynamiX/stylesheets/images/quote-close-dark.png) no-repeat bottom right;}
+/** / Footer **/
+</style>
+<!--[if IE 6]>
+<style type="text/css" media="screen">
+  @import "https://casegenix.com/wp-content/themes/DynamiX-Wordpress/DynamiX/stylesheets/ie6.css";
+</style>
+<![endif]-->
+<!--[if IE 7]>
+<style type="text/css" media="screen">
+  @import "https://casegenix.com/wp-content/themes/DynamiX-Wordpress/DynamiX/stylesheets/ie7.css";
+</style>
+<![endif]-->
+<!--[if IE]> <style> .clearfix {display: inline-block;} /* Hides from IE-mac \*/ * html .clearfix {height: 1%;} .clearfix {display: block;} /* End hide from IE-mac */ </style> <![endif]-->
+<script type="text/javascript" src="https://casegenix.com/wp-content/themes/DynamiX-Wordpress/DynamiX/js/Lucida_Sans_Unicode_400.font.js" defer></script>
+<!--[if gte IE 9]> <script type="text/javascript"> Cufon.set('engine', 'canvas'); </script> <![endif]-->
+<!--[if lte IE 8]>
+<style type="text/css">
+.content-wrapper,.styledbox.general,.columns.border,.gallery-wrap,div#object-nav.item-list-tabs,div#message {
+    behavior: url(https://casegenix.com/wp-content/themes/DynamiX-Wordpress/DynamiX/js/PIE.htc);
+}
+</style>
+<![endif]-->
+</head>
+<body class="home page-template-default page page-id-69 inskin-one">
+<script type="text/javascript">
+
+    
+	
+
+// Header/Toppanel Gradients
+
+Cufon.replace('#header h1, #footer-wrap h1', {
+color: '-linear-gradient(#fff,#f5f5f5,)',textShadow: '0px 1px 5px rgba(0, 0, 0, 0.08)'
+});	
+
+Cufon.replace('#header h2, #footer-wrap h2', {
+color: '-linear-gradient(#fff,#f5f5f5,)',textShadow: '0px 1px 5px rgba(0, 0, 0, 0.08)'
+
+});	
+
+Cufon.replace('#header h3, #header h4, #header h5, #header h6, #footer-wrap h3,#footer-wrap h4,#footer-wrap h5,#footer-wrap h6,.tweets h3', {
+color: '-linear-gradient(#fff,#f5f5f5,;)',textShadow: '0px 1px 5px rgba(0, 0, 0, 0.08)'
+});	
+
+// Content Gradients
+
+Cufon.replace('.inner-page h1,#toppanel h1, .stage-slider h1', {
+color: '-linear-gradient(#7f7f7f,#262323,)',textShadow: '0px 1px 5px rgba(0, 0, 0, 0.08)'
+});	
+
+Cufon.replace('.inner-page h2, .stagetext h2, #toppanel h2, .stage-slider h2', {
+color: '-linear-gradient(#777,#555,)',textShadow: '0px 1px 5px rgba(0, 0, 0, 0.08)'
+});	
+
+Cufon.replace('.inner-page h3,#toppanel h3,.stage-slider h3, .inner-page h4, #toppanel h4,.stage-slider h4, .inner-page h5,#toppanel h5,.stage-slider h5, .inner-page h6,#toppanel h6, .stage-slider h6', {
+color: '-linear-gradient(#777,#555,)',textShadow: '0px 1px 5px rgba(0, 0, 0, 0.08)'
+});	
+
+
+Cufon.replace('.stage-slider .gallerytitle.light h2, .stage-slider .gallerytitle.light h3, #item-header-content h2 span.highlight, .accordion-gallery .excerpt h2, .container .title h2, .accordion-gallery .title h5', {
+	color: '-linear-gradient(#f9f9f9, #fff,)',textShadow: '0px 1px 5px rgba(0, 0, 0, 0.08)'
+});
+
+Cufon.replace('.stage-slider .gallerytitle.dark h2, .stage-slider .gallerytitle.dark h3', {
+	color: '-linear-gradient(#999, #333,)',textShadow: '0px 1px 5px rgba(0, 0, 0, 0.08)'
+});
+
+
+
+
+	
+
+</script>
+<div><a id="top"></a></div>
+<div id="wrapper" class="">
+<div id="page" class="pages ">
+<div class="header-wrap"></div>
+<div class="header-wrap-img"></div>
+<div id="header" class="pages ">
+<div id="header-logo">
+<div id="logo">
+<a href="https://casegenix.com/"><img src="/wp-content/uploads/2012/06/Casegenix_logo.png" alt="Casegenix" /></a>
+</div>
+<div class="clear"></div>
+</div>
+<div id="nv-tabs">
+<ul id="dyndropmenu" class="menu"><li class="menubreak"></li><li id="menu-item-210" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://casegenix.com/?page_id=5">About Casegenix</a></li>
+<li class="menubreak"></li><li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://casegenix.com/?page_id=15">Case Studies</a></li>
+<li class="menubreak"></li><li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://casegenix.com/?page_id=11">Product Features</a></li>
+<li class="menubreak"></li><li id="menu-item-244" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://casegenix.com/?page_id=242">Technology</a></li>
+<li class="menubreak"></li><li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://casegenix.com/?page_id=22">Benefits</a></li>
+<li class="menubreak"></li><li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://casegenix.com/?page_id=17">Services &#038; Support</a></li>
+<li class="menubreak"></li><li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://casegenix.com/?page_id=24">Contact Us</a></li>
+</ul> </div>
+</div>
+<div id="sub-header">
+<div id="sub-tabs">
+<ul>
+</ul>
+</div>
+</div>
+<div class="clear"></div>
+<div class="inner-page ">
+<div class="content-wrapper">
+<div class="content-wrapper-inner">
+<div class="mid-wrap  left out-full  ">
+<div id="content">
+<div class="post" id="post-69">
+<div class="post-titles">
+<h1>Case Genix</h1>
+</div>
+<div class="clear"></div>
+<div class="entry">
+<p>
+<div class="imagewrap " style="height:540px;width:960px;">
+<div class="container videotype ">
+<div class="gridimg-wrap">
+<iframe src="//player.vimeo.com/video/63314848?autoplay=0&amp;title=0&amp;byline=0&amp;portrait=0" width="960" height="540"></iframe>
+</div>
+</div>
+</div>
+<br />
+<br /> </br></p>
+<h1> Revolutionise your business with Casegenix. </h1>
+<h4>Simplify and automate your business processes using a single online platform. Casegenix is a case management system that integrates with your existing databases, processes and software, making it easy to manage the lifecycle of any business activity. </p>
+<p>We’ve helped many organisations improve their work efficiency and productivity, including the National Australia Bank, NSW Roads and Maritime Services (RMS), WorkSafe Victoria and the National Blood Authority.<br />
+</h4>
+<p></p>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="push"></div>
+</div>
+<div class="clear"></div>
+<div id="footer-header"></div>
+<div id="footer-wrap" class="clearfix">
+<div id="footer-wrap-inner" class="clearfix">
+<div id="footer" class="clearfix">
+
+<div class="panel-wrap">
+<span style="color:#666">Copyright © 2012 Case Genix.
+<br></br>All rights reserved</span>
+<style>
+.post-titles {display:none}
+</style>
+</div>
+<div class="panel-wrap">
+</div>
+<div class="panel-wrap">
+</div>
+<div class="panel-wrap last">
+</div>
+</div>
+</div>
+</div>
+
+<script type='text/javascript' src='https://casegenix.com/wp-includes/js/jquery/ui/core.min.js'></script>
+<script type='text/javascript' src='https://casegenix.com/wp-includes/js/jquery/ui/widget.min.js'></script>
+<script type='text/javascript' src='https://casegenix.com/wp-includes/js/jquery/ui/tabs.min.js'></script>
+<script type='text/javascript' src='https://casegenix.com/wp-includes/js/jquery/ui/effect.min.js'></script>
+<script type='text/javascript' src='https://casegenix.com/wp-includes/js/jquery/ui/accordion.min.js'></script>
+<script type='text/javascript' src='https://casegenix.com/wp-includes/js/wp-embed.min.js'></script>
+<script type="text/javascript"> 
+<!--
+(function ($) {
+$(document).ready(function() {
+
+Cufon.now();
+
+$('.post-grid.archive .galleryimg,.accordion-gallery .galleryimg').append('<div class="hoverimg" style="height:100%"></div>');	
+$('.post-grid.archive .galleryvid,.accordion-gallery .galleryvid').append('<div class="hovervid" style="height:100%"></div>');	
+$('.archiveimg-wrap .galleryimg').append('<div class="hoverimg" style="height:100%"></div>');	
+$('.archiveimg-wrap .galleryvid').append('<div class="hovervid" style="height:100%"></div>');	
+$('.container .galleryimg').append('<div class="hoverimg" style="height:inherit"></div>');	
+$('.container .galleryvid').append('<div class="hovervid" style="height:inherit"></div>');	
+
+			$("a[rel^='prettyPhoto'],p.description a").prettyPhoto({
+			keyboard_shortcuts: false,
+			social_tools:false,
+			theme: 'light_rounded'
+			});
+
+$("img.reflect").reflect({height:35,opacity:0.2});
+if(navigator.appName != "Microsoft Internet Explorer") {
+$("#item-body img.avatar, #item-header-avatar img.avatar, .avatar-block img.avatar").not('#member-list img.avatar').reflect({height:35,opacity:0.2});
+}
+
+$('.target_blank a').each(function() {
+       $(this).click(function(event) {
+           event.preventDefault();
+           event.stopPropagation();
+           window.open(this.href, '_blank');
+       });
+});
+
+
+
+
+
+});
+
+$('.blackwhite').BlackAndWhite({
+	hoverEffect:true
+});
+
+})(jQuery);
+
+
+//-->
+</script>
+</body>
+</html>
