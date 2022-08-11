@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!--
   - SUMMARY
   -   Spring XML schema for CGX reporting configuration.
@@ -89,4 +90,97 @@
 		</xsd:complexType>
 	</xsd:element>
 	
+=======
+<!--
+  - SUMMARY
+  -   Spring XML schema for CGX reporting configuration.
+  -
+  - DESCRIPTION
+  -   This schema defines tags for configuring the CGX reporting
+  -   service.
+  -
+  - AUTHOR
+  -   Kevin Leong
+  -
+  - VERSION
+  -   $Id$
+  -->
+
+<xsd:schema xmlns="http://www.genixventures.com/schema/com/genix/casegenix/reporting"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns:beans="http://www.springframework.org/schema/beans"
+	targetNamespace="http://www.genixventures.com/schema/com/genix/casegenix/reporting"
+	elementFormDefault="qualified"
+	attributeFormDefault="unqualified">
+	
+	<xsd:import
+		namespace="http://www.springframework.org/schema/beans"
+		schemaLocation="http://www.springframework.org/schema/beans/spring-beans.xsd" />
+	
+	<!-- Reporting Framework Configuration -->
+	<xsd:element name="configuration" >
+		<xsd:complexType>
+			<xsd:complexContent>
+				<xsd:extension base="beans:identifiedType">
+		
+					<!-- Report Templates -->
+					<xsd:sequence minOccurs="0" maxOccurs="unbounded">
+						<xsd:element name="template">
+							<xsd:complexType>
+							
+								<!--  Parameter Definitions -->
+								<xsd:sequence minOccurs="0" maxOccurs="unbounded">
+									<xsd:element name="parameter">
+										<xsd:complexType>
+										
+											<xsd:sequence minOccurs="0" maxOccurs="unbounded">
+												<xsd:element name="dependentParameter">
+													<xsd:complexType>
+														<xsd:attribute name="key" type="xsd:string" use="required" />
+													</xsd:complexType>
+												</xsd:element>
+											</xsd:sequence>
+											
+											<xsd:attribute name="key" type="xsd:string" use="required" />
+											<xsd:attribute name="type" use="required">
+												<xsd:simpleType>
+													<xsd:restriction base="xsd:string">
+														<xsd:enumeration value="boolean" />
+														<xsd:enumeration value="integer" />
+														<xsd:enumeration value="string" />
+														<xsd:enumeration value="date" />
+														<xsd:enumeration value="enum" />
+														<xsd:enumeration value="entityReference" />
+													</xsd:restriction>
+												</xsd:simpleType>
+											</xsd:attribute>
+											<xsd:attribute name="multiValue" type="xsd:boolean"
+												use="optional" default="false" /> 
+											<xsd:attribute name="optional" type="xsd:boolean"
+												use="optional" default="true" /> 
+											<xsd:attribute name="label" type="xsd:string" use="required" />
+											<xsd:attribute name="valueSetGeneratorClassName" type="xsd:string" use="optional" />
+											<xsd:attribute name="valueSetGeneratorConstructorArgument" type="xsd:string" use="optional" />
+											<xsd:attribute name="validatorClassName" type="xsd:string" use="optional" />
+											<xsd:attribute name="validatorConstructorArgument" type="xsd:string" use="optional" />											
+										</xsd:complexType>
+									</xsd:element>
+								</xsd:sequence>
+							
+								<xsd:attribute name="key" type="xsd:string" use="required" />
+								<xsd:attribute name="title" type="xsd:string" use="required" />
+								<xsd:attribute name="description" type="xsd:string" use="optional" />
+								<xsd:attribute name="generatorClassName" type="xsd:string" use="required" />
+								<xsd:attribute name="validatorClassName" type="xsd:string" use="optional" />
+							</xsd:complexType>
+						</xsd:element>
+						
+					</xsd:sequence>
+					
+				</xsd:extension>
+			</xsd:complexContent>
+		</xsd:complexType>
+	</xsd:element>
+	
+>>>>>>> 25bebe3edc94fb4bd40aa700c2f8b730d584fac0
 </xsd:schema>
